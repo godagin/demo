@@ -1,5 +1,6 @@
 {
   "apartment": {
+    "id": 1,
     "name": "Flat 1606",
     "description": "Labai grazus nuostabus apartamentas",
     "address": "Gatveles g. 16",
