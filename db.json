@@ -1,7 +1,7 @@
 {
-  "apartments": [
-    {
-      "id": 1,
+  "ids": [1, 2, 3],
+  "apartments": {
+    1: {
       "name": "Flat 1606",
       "description": "Labai grazus nuostabus apartamentas",
       "address": "Gatveles g. 16",
@@ -9,8 +9,7 @@
       "ZIP": 10101,
       "country": "Lithuania"
     },
-    {
-      "id": 2,
+    2: {
       "name": "Flat 1606",
       "description": "Labai grazus nuostabus apartamentas",
       "address": "Gatveles g. 16",
@@ -18,8 +17,7 @@
       "ZIP": 10101,
       "country": "Lithuania"
     },
-    {
-      "id": 3,
+    3: {
       "name": "Flat 1606",
       "description": "Labai grazus nuostabus apartamentas",
       "address": "Gatveles g. 16",
@@ -27,5 +25,5 @@
       "ZIP": 10101,
       "country": "Lithuania"
     }
-  ]
+  }
 }
